@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "https://i2-cdn.soapboxraceworld.ml/assets/images/favicons/android-chrome-192x192.png",
+            "src": "https://i2-sbrw.davidcarbon.download/assets/images/favicons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://i2-cdn.soapboxraceworld.ml/assets/images/favicons/android-chrome-512x512.png",
+            "src": "https://i2-sbrw.davidcarbon.download/assets/images/favicons/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
